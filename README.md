@@ -1,11 +1,8 @@
 
-## I am assuming that the data is well behaved
-## The matrix that is entered must be a square matrix and it must be invertable
+## First I assume the data is well behaved
+## The matrix that is entered must be invertible and a square matrix
 ## The functions are not testing if the input data meets this criteria and
-## is not providing any error messages.
-
-
-## Want to create a pair of functions that will cache the inverse of a matrix
+## it doesn't provide error message.
 
 
 ## This function creates a special "matrix" object that can cache its inverse
